@@ -10,6 +10,7 @@ and teachers. Management can be done with a single administrator login.
  3.Jdbc
  4.Git 
  5.GitHub
+ 6.Maven
 
 # Concepts and Algorithms used
 
